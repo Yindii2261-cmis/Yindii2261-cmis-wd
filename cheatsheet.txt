@@ -1,0 +1,10 @@
+DO NOT TYPE THE BRACKETS OR THE DASHES BEFORE THE DEFINITIONS
+ls (Insert directory name) -  this will open all the files in the directory 
+cd- go home
+cd (Insert directory name) - changes the directory 
+cat (Insert file name) - views everything in that file
+gedit (Insert file name) - opens up gedit to edit the file 
+git clone _ _ config="http.proxy=http://username:password@192.168.2.1:8080"http://url-to-your-repo - 
+git add (Insert file name) - *required; saves changes, makes Git aware of the file
+git commit -m "Editted (Insert file name) -  *required; snapshot, saves for future
+git push - *required; sends back to website
