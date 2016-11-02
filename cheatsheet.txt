@@ -8,3 +8,5 @@ git clone _ _ config="http.proxy=http://username:password@192.168.2.1:8080"http:
 git add (Insert file name) - *required; saves changes, makes Git aware of the file
 git commit -m "Editted (Insert file name) -  *required; snapshot, saves for future
 git push - *required; sends back to website
+clear - clears the whole terminal page
+pwd - shows where you are 
