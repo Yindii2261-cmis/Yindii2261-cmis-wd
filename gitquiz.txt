@@ -1,7 +1,7 @@
 Step 1: I'd enter the classroom
 Step 2: Turn on my computer and log on
 Step 3: Open my email (where I would have my cloning code) and Terminal
-Step 4: Copy and paste my cloning code into the Terminal, then press enter
+Step 4: Copy and paste my cloning code into the Terminal (git clone --config="http.proxy=http://yindii2261:magix@192.168.2.1:8080" https://github.com/Yindii2261-cmis/Yindii2261-cmis-wd.git), then press enter
 Step 5: Type 'cd' then after space, type the name of my repository (cd Yindii2261-cmis-wd/); press enter
 Step 6: I'd type gedit and after space, type file.txt (gedit file.txt); gedit will be opened up with a new file named file.txt
 Step 7: I'd put whatever information in that file (edit it however I need to) 
