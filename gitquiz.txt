@@ -7,10 +7,10 @@ Step 6: I'd type gedit and after space, type file.txt (gedit file.txt); gedit wi
 Step 7: I'd put whatever information in that file (edit it however I need to) 
 Step 8: I would often press the save button every now and then incase the computer crashes or something unexpected happens
 Step 9: Once done, I save it again and close the gedit tab
-Step 10: Type git add and put in the name of my file (git add file.txt); hit enter
+Step 10: Type git add and put in the name of my file, I could just type file then press tab, (git add file.txt); hit enter
 Step 11: I'll type git commit -m "Editted file.txt" (git commit -m "Editted file.txt); hit enter
 Step 12: Then type git push (nothing else needed)
-Step 13: Fill out my username and password in the correct boxes (for the password, the characters will not show for privacy)
+Step 13: Fill out my username (Yindii2261-cmis) and password in the correct boxes (for the password, the characters will not show for privacy)
 Step 14: To double check that everything is saved in my repository, I go to github.com, login, and go to my repository where file.txt should appear along with my other files
 Step 15: When the bell rings, I'll sign out of all my accounts, close down all the tabs
 Step 16: Turn off my computer and leave the room with a smile on my face :)
