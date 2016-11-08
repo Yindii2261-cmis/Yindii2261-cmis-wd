@@ -10,3 +10,5 @@ git commit -m "Editted (Insert file name) -  *required; snapshot, saves for futu
 git push - *required; sends back to website
 clear - clears the whole terminal page
 pwd - shows where you are 
+python -m SimpleHTTPServer - opens a web page version of the file (will need new terminal tab)
+
