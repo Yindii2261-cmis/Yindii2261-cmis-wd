@@ -11,4 +11,10 @@ git push - *required; sends back to website
 clear - clears the whole terminal page
 pwd - shows where you are 
 python -m SimpleHTTPServer - opens a web page version of the file (will need new terminal tab)
-
+put (Insert file name) - uploads a file
+sftp username@cmis-hsteacher (sftp yindii2261@cmis-hsteacher) - secure file transport protocol; it a website that allows me to transfer files to the production server- Mr. Keiffer's computer
+		Put sftp (insert username)
+		ls 
+		cd public_html
+		put (insert file name)
+!ls - views all files on computer
