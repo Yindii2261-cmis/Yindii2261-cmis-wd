@@ -1,11 +1,47 @@
+
+
+
+
 h1 {
-	color:red;
-	background:orange;
-	font: arial;
+	color: #b366ff;
+	background: #8000ff;
+	font:Georgia;
 	font-size:50px;
+	text-align:center;
+	font-style:italic;
+	font-weight:900;
+	letter-spacing:10px;
 }
+
 body {
-	background-color:#fflala;
+	background-color:#e580ff;
+	border-style:inset;
+	border-width: 10px;
+	border-color:  #ac00e6;
 }
+
 p {
-	font-family: 
+	font-family:Courier New;
+	font-style:oblique; 
+	font-size:21px;
+	color: #9900cc;
+	background: #cc80ff;
+	text-align:justify;
+	text-indent: 28px;
+	line-height:2.3;
+	word-spacing: 10px;	
+	
+}
+
+h2 { 
+	font-family:Verdana;
+	font-style:italic;
+	font-size:35px; 
+	color:#d279a6;
+	background: #ff66cc;
+	text-align:center;
+	font-weight:normal;
+	text-decoration: line-through;
+	text-transform:capitalize;
+	text-shadow:2px 2px   #520066;
+
