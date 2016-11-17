@@ -18,6 +18,16 @@ body {
 	border-style:inset;
 	border-width:10px;
 	border-color: #ac00e6;
+	outline-style:double;
+	outline-color: #3d0066;
+	outline-width:28px;
+	padding:80px;
+	position:fixed;
+	float: right;
+	background-image: url("http://cdn.wallpapersafari.com/28/87/Rj7CXQ.jpg");
+	background-repeat: no-repeat;
+	cursor:alias; 
+
 }
 
 p {
@@ -30,7 +40,8 @@ p {
 	text-indent: 28px;
 	line-height:2.3;
 	word-spacing:10px;	
-	
+	margin:100px;
+	display:intial;
 }
 
 h2 { 
@@ -44,4 +55,7 @@ h2 {
 	text-decoration:line-through;
 	text-transform:capitalize;
 	text-shadow:2px 2px   #520066;
+	opacity: 3;
+	visibility: hidden;
+	
 
