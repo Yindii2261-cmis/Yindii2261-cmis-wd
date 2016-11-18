@@ -1,5 +1,45 @@
+/*I learned from Gina the cursor property. And from Danielle I learned the background position property.*/
 
+/* 1.color
+2.background
+3.font
+4.font-size
+5.text-align
+6.letter-spacing
+7.border-style
+8.line-height
+9.word-spacing
+10.margin
+11.outline
+12.padding
+13.position
+14.float
+15.background-image
+16.opacity
+17.cursor
+18.hidden
+19.display
+20.text-shadow 
 
+Requirements
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.
+*/
 
 
 h1 {
@@ -10,7 +50,9 @@ h1 {
 	text-align:center;
 	font-style:italic;
 	font-weight:900;
-	letter-spacing:10px;
+	letter-spacing:6rem;
+	border-style: groove;
+	border-color: #d633ff;
 }
 
 body {
@@ -31,17 +73,18 @@ body {
 }
 
 p {
-	font-family:Courier New;
+	font-family:"Courier New";
 	font-style:oblique; 
 	font-size:21px;
 	color:#9900cc;
 	background: #cc80ff;
 	text-align:justify;
-	text-indent: 28px;
+	text-indent: 28vh;
 	line-height:2.3;
 	word-spacing:10px;	
-	margin:100px;
-	display:intial;
+	margin:10vmax;
+	border-style: groove;
+	border-color: #d633ff;
 }
 
 h2 { 
@@ -55,7 +98,9 @@ h2 {
 	text-decoration:line-through;
 	text-transform:capitalize;
 	text-shadow:2px 2px   #520066;
-	opacity: 3;
+	opacity:3;
 	visibility: hidden;
-	
+	border-style: groove;
+	border-color: #d633ff;
+}
 
