@@ -1,0 +1,40 @@
+body {
+	
+	background-color:white;
+}
+h1 { 
+	background-color:green;
+	color:yellow;
+	font-style:italic;
+	font-size:28px;
+	font:Sans Serif; 
+	font-weight:bold;
+}
+p {
+	font-style:oblique;
+	color: blue;
+	font-weight:bold;
+	background: #ff1a1a;
+	line-height:1.5;
+	letter-spacing:0.001px;
+	word-spacing:0.001px;
+	border-bottom:dashed;
+	border-width: 5px;
+	border-top: dashed;
+	border-color: yellow;
+}
+h2 { 
+	background: purple;
+	color:yellow;
+}
+h3 {
+	background: yellow;
+	border-top: dashed; 
+	border-color: #FFA500;
+	color:purple;
+}
+p {
+	font-style:none;
+	background:none;
+}
+	
