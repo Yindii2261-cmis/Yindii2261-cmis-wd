@@ -7,34 +7,58 @@ h1 {
 	color:yellow;
 	font-style:italic;
 	font-size:28px;
-	font:Sans Serif; 
+	font:Impact;
 	font-weight:bold;
+	border-bottom: dashed;
+	border-color:yellow;
+	border-width:5px;
+	margin-bottom:0px;
+}
+h4 { 
+	background:red;
+	font:Impact; 
+	color:blue;
+	margin-top:0px;
+	line-height:30px;
+	font-weight:900;
+	border-bottom:dashed;
+	border-color:yellow;
+	border-width:7px;
 }
 p {
-	font-style:oblique;
+	font-style:normal;
 	color: blue;
-	font-weight:bold;
-	background: #ff1a1a;
+	font-weight:normal;
 	line-height:1.5;
 	letter-spacing:0.001px;
 	word-spacing:0.001px;
-	border-bottom:dashed;
-	border-width: 5px;
-	border-top: dashed;
-	border-color: yellow;
+	border-left:groove;
+	border-right:groove;
+	border-color:orange;
+	border-width:7px;
 }
 h2 { 
 	background: purple;
 	color:yellow;
+	border-right:solid;
+	border-width:21px;
+	border-left:groove;
+	border-right:groove;
+	border-color:orange;
+	border-width:7px;
 }
 h3 {
 	background: yellow;
 	border-top: dashed; 
-	border-color: #FFA500;
+	border-color: #800080;
 	color:purple;
+	border-left:groove;
+	border-right:groove;
+	border-color:orange;
+	border-width:7px;
 }
-p {
-	font-style:none;
-	background:none;
-}
-	
+h5 {
+	border-top:dotted;
+	border-left:solid;
+	border-right:solid;
+}	
