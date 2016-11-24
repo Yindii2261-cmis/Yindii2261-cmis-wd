@@ -1,0 +1,42 @@
+h1 { 
+	font-size:50px;
+	color:red;
+	background-color: #b3d9ff;
+	margin-bottom:0px;
+}
+h4 { 
+	border-top: dotted green;
+	color: blue;
+	text-decoration:underline;
+	background-color: #b3d9ff;
+	margin-top: 0px;
+	border-bottom:dashed red 2em;
+	margin-bottom:1px;
+	padding:5px;
+}
+main {
+	border:groove yellow 5px;
+}
+body {
+	background-color:#ffb3b3;	
+	margin:1em;
+	border-left:dashed red 2em;
+}
+h2 {
+	background-color: blue;
+	color:white;
+}
+p { 
+	color: blue;
+	border-top:dotted green;
+}
+footer {
+	color:blue;
+	font-size:25px;
+	border-bottom:solid 2px black;
+	text-align:left; 
+}
+h3 { 
+	background:red;
+	
+}
