@@ -1,0 +1,49 @@
+h1 { 
+	color:  #6699ff;
+	font-family: Verdana; 
+	font-style: italic;
+	font-size: 6rem;
+	letter-spacing:5px;	
+	line-height: 21px;
+}
+header { 
+	color:  #3366ff; 
+	font-family: New Times Roman;
+	font-size: 40px; 
+	letter-spacing: 1.5 rem;
+	text-align: center;
+}
+nav {
+	color:  #007acc;
+}
+body {
+	background-color: #b3e0ff;
+	border: solid 10px  #66c2ff;
+	margin: 0.9rem;
+	padding:0.5rem;
+	width:60rem;
+	height:94rem;
+ } 
+main { 
+	border: double 10px  #1aa3ff;
+	background:  #66a3ff;
+}
+h2 { 
+	color:  #0033AD;
+	font-size: 3rem; 
+	font-family: Arial; 
+	font-style:bold;
+	letter-spacing: 10px;
+	text-align: right;
+}
+ol { 
+	color:  #12369C;
+	font-size:
+	line-height:9px;
+}
+h3, footer {
+	color:  #1470AD;
+	font-size:21px;
+	text-align:center;
+}
+	
