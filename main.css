@@ -64,7 +64,6 @@ body {
 	outline-color: #3d0066;
 	outline-width:28px;
 	padding:21px;
-	position:fixed;
 	float: right;
 	background-image: url("http://cdn.wallpapersafari.com/28/87/Rj7CXQ.jpg");
 	background-repeat: no-repeat;
@@ -103,4 +102,24 @@ h2 {
 	border-style: groove;
 	border-color: #d633ff;
 }
-
+header{ 
+	background: #6600cc;
+	border-style: groove;
+	border-color: #d633fe;
+}
+nav {
+	color: #cc00cc;
+	background: #ff99ff;
+	border-width:21px; 
+	border-color:#cc99ff;
+}
+main {
+	color: #e6ccff;
+	background: #5900b3;
+	border-width:5rem;
+	border-color:#a64dff;
+	font-size: 21px;
+}
+footer {
+	background: #800080;
+}
