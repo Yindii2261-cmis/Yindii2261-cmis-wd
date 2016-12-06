@@ -12,7 +12,7 @@ clear - clears the whole terminal page
 pwd - shows where you are 
 python -m SimpleHTTPServer - opens a web page version of the file (will need new terminal tab)
 put (Insert file name) - uploads a file; when you edit on gedit, doesn't change for uploaded files
-sftp username@cmis-hsteacher (sftp yindii2261@cmis-hsteacher) - secure file transport protocol; it a website that allows me to transfer files to the production server- Mr. Keiffer's computer                                 Put sftp (insert username)                                                 ls                                                                           cd public_html (to make sure that I'm in right folder in my computer and right folder in other computer)                                           put (insert file name)
+sftp username@cmis-hsteacher (sftp yindii2261@cmis-hsteacher) - secure file transport protocol; it a website that allows me to transfer files to the production server- Mr. Keiffer's computer                                 Put sftp (insert username)                                                 ls                                                                           cd public_html (to make sure that I'm in right folder in my computer and right folder in other computer)                                           put (insert file name) - uploads files onto production server
 !ls - views all files on local computer
 http://cmis-hsteacher/~yindii2261/(insert uploaded filename) - opens up production server with sftp showing the file; similar to python
 Control D - exits from sftp
