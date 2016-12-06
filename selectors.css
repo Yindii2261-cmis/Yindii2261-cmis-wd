@@ -10,10 +10,10 @@ header {
 	color:  #3366ff; 
 	font-family: New Times Roman;
 	font-size: 40px; 
-	letter-spacing: 1.5 rem;
+	letter-spacing:2rem;
 	text-align: center;
 }
-nav {
+nav p{
 	color:  #007acc;
 }
 body {
@@ -22,7 +22,7 @@ body {
 	margin: 0.9rem;
 	padding:0.5rem;
 	width:60rem;
-	height:94rem;
+	height:111rem;
  } 
 main { 
 	border: double 10px  #1aa3ff;
@@ -32,18 +32,18 @@ h2 {
 	color:  #0033AD;
 	font-size: 3rem; 
 	font-family: Arial; 
-	font-style:bold;
+	font-weight:bold;
 	letter-spacing: 10px;
 	text-align: right;
 }
 ol { 
 	color:  #12369C;
-	font-size:
-	line-height:9px;
+	line-height:24px;
 }
 h3, footer {
 	color:  #1470AD;
 	font-size:21px;
 	text-align:center;
 }
+
 	
