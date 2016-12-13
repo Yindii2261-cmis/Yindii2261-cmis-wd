@@ -113,6 +113,13 @@ nav {
 	border-width:21px; 
 	border-color:#cc99ff;
 }
+main a{
+	color: #a64dff;
+}
+ul, ol {
+	background:none;
+	
+}
 main {
 	color: #e6ccff;
 	background: #5900b3;
